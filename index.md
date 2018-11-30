@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Index
-permalink: /
+layout: home
+author_profile: true
 ---
 
 Hello world

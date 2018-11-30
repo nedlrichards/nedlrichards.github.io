@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Hi, my name is Edward L Richards, though I often go by Ned. I am a graduate

@@ -31,6 +31,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  nedlrichards
 github: [metadata]
 
+author:
+  name     : "Edward Richards"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "PhD candidate at Scripps Oceanography"
+  location : "San Diego, CA, USA"
+
 # Site Footer
 footer:
   links:
@@ -169,7 +175,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
